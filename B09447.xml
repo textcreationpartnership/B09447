@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lovers pastime, or, An amorous encounter betwixt two lovers that did well agree for to make use of time as you may see time cannot be recal'd being once lost and lovers in delights are often crost, to the tune of Turn love, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09447</idno><idno type="EEBO-CITATION">62369453</idno>
+  <idno type="VID">188004</idno>
+  <idno type="EEBO-PROQUEST">2240860976</idno>
+  
+            <idno type="STC">Wing L3256</idno>
+            <idno type="STC">ESTC R180165</idno>
+            <idno type="OCLC">62369453</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188004)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2852:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lovers pastime, or, An amorous encounter betwixt two lovers that did well agree for to make use of time as you may see time cannot be recal'd being once lost and lovers in delights are often crost, to the tune of Turn love, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Burton at the Horse-Shoe in West-Smith-Field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Verses in black letter, chorus lines in Roman.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:188004:1"/>
+            <pb facs="tcp:188004:2"/>
+            <head>The Lovers Pastime, OR An Amorous Encounter.</head>
+            <argument>
+               <q>
+                  <l>Betwixt two Lovers that did well agree</l>
+                  <l>For to make use of time as you may see,</l>
+                  <l>Time cannot be recal'd being once lost</l>
+                  <l>And Lovers in delights are often crost.</l>
+               </q>
+            </argument>
+            <opener>To the Tune of Turn love, &amp;c.</opener>
+            <p>
+               <figure>
+                  <figDesc>portrait of a man</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>portrait of a woman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>AN amorous pair of young Lovers,</l>
+               <l>one Evening chanced to meet,</l>
+               <l>When <hi>Cupid</hi> was shooting at Rovers</l>
+               <l>this couple did lovingly greet</l>
+               <l>And after a kind salutation,</l>
+               <l>this gallant began to draw nigh,</l>
+               <l>His Lady to court, for pastime and sport</l>
+               <l>
+                  <hi>in hopes there was no body by.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come hither my pretty <hi>Betty,</hi>
+               </l>
+               <l>with thy fair rouling eye,</l>
+               <l>Dost think that thou canst love Me</l>
+               <l>no indeed not I.</l>
+               <l>Why dost thou make me that answer</l>
+               <l>prithee tell me the reason why,</l>
+               <l>Dost think thy self too young for me</l>
+               <l>
+                  <hi>no by my troth not <hi>I.</hi>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What is the reason my <hi>Betty</hi>
+               </l>
+               <l>of late thou art grown so coy,</l>
+               <l>Hast thou any secret promise made</l>
+               <l>no indeed not <hi>I.</hi>
+               </l>
+               <l>Then for to make the matter short,</l>
+               <l>resolve me or else I dye,</l>
+               <l>Wilt thou prove unkind to me</l>
+               <l>
+                  <hi>no by my, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This place it doth seem to invite us</l>
+               <l>a little to sport, and to play,</l>
+               <l>And every thing dot<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> delight us</l>
+               <l>now we are togeth r this day,</l>
+               <l>If <hi>I</hi> should presume to be billing</l>
+               <l>hence no body can us espy,</l>
+               <l>
+                  <hi>I</hi> hope thou wilt not be unwilling</l>
+               <l>
+                  <hi>no by my troth not I.</hi>
+               </l>
+            </lg>
+            <pb facs="tcp:188004:2"/>
+            <p>
+               <figure>
+                  <figDesc>a woman and a man</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>LOng time have I wisht to enjoy thée</l>
+               <l>that I might my <hi>Betty</hi> imbrace,</l>
+               <l>For shame thou wilt never deny me,</l>
+               <l>for now is the time and the place,</l>
+               <l>We'l huddle, we'l kiss, and we'l tumble</l>
+               <l>so prittily down we will lye,</l>
+               <l>Provided that thou wilt not grumble</l>
+               <l>
+                  <hi>no by my troth not I.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What pleasure <hi>I</hi> take to be merry</l>
+               <l>with <hi>Betty</hi> so loving and kind,</l>
+               <l>Thy lips are as red as a Cherry</l>
+               <l>thy beauty doth ravish my mind,</l>
+               <l>But for to speak a little in sport</l>
+               <l>if <hi>I</hi> with thee should lye,</l>
+               <l>I hope you will not chide me for't</l>
+               <l>
+                  <hi>no by my, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I took her by the hand and I kist her</l>
+               <l>for <hi>I</hi> was both merry and jolly,</l>
+               <l>I would not for mony have mist her</l>
+               <l>since I had a mind for to dally.</l>
+               <l>Whilst we were thus prittily wooing</l>
+               <l>
+                  <hi>I</hi> askt her if she would not cry</l>
+               <l>If <hi>I</hi> should begin to be doing</l>
+               <l>
+                  <hi>no by my, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then let us be quick and be nimble</l>
+               <l>for suddenly we must <hi>depart,</hi>
+               </l>
+               <l>My <hi>Betty</hi> I scorn to dissemble</l>
+               <l>
+                  <hi>I</hi> love thee with all my heart,</l>
+               <l>But what if thy belly should chance to swel,</l>
+               <l>and thy mother should ask thée why,</l>
+               <l>Would'st thou to her the reason tell,</l>
+               <l>
+                  <hi>no by my, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then I in my arms did imbrace her</l>
+               <l>and bid her to be of good cheer,</l>
+               <l>I told her I would not disgrace her</l>
+               <l>but call'd her my love and my dear,</l>
+               <l>She laid her self upon the bed</l>
+               <l>where no body could descry,</l>
+               <l>Quoth I my dear thou art not afaid</l>
+               <l>
+                  <hi>no by my, &amp;c,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What pretty delight we enjoyed there</l>
+               <l>I'l leave it to Lovers to judge</l>
+               <l>How loving and kindly we toy'd there</l>
+               <l>without either grumble or grudge</l>
+               <l>Quoth I now my own pritty <hi>Betty,</hi>
+               </l>
+               <l>with thée I my valour will try,</l>
+               <l>And i'l have thee to'th wine, if thou wilt not repine</l>
+               <l>
+                  <hi>no by my, &amp;c,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I</hi> took her off the bed then</l>
+               <l>and <hi>I</hi> set her in the chair,</l>
+               <l>Now thou hast done with me quoth she</l>
+               <l>I prithee draw near my dear</l>
+               <l>If I should come too near to thee</l>
+               <l>
+                  <hi>I</hi> fear that thou wouldst cry</l>
+               <l>For loosing of thy Maiden-head;</l>
+               <l>
+                  <hi>no by my, &amp;c.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But now it is time to be going</l>
+               <l>from <hi>Betty</hi> I needs must part</l>
+               <l>'Tis time to leave of our woing</l>
+               <l>although it doth grieve my heart</l>
+               <l>When ever we méet, <hi>I</hi> entreat thee my swéet</l>
+               <l>that thou wilt be loving as <hi>I</hi>
+               </l>
+               <l>And never to grutch, my taking a touch.</l>
+               <l>
+                  <hi>no by my troth not I.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>P<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nted for R. Burton at the Horse-shooe in West-smith-field. With Allowance.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
